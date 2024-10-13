@@ -1,6 +1,6 @@
-# HariBOT - Assistant IA Interactif
+# HoriBOT - Assistant IA Interactif
 
-HariBOT est un assistant IA interactif en ligne de commande, conçu pour répondre à une variété de questions en utilisant une combinaison de connaissances locales et l'API AI21 Labs. Ce projet démontre l'intégration d'une IA avancée dans une application Python simple et extensible.
+HoriBOT est un assistant IA interactif en ligne de commande, conçu pour répondre à une variété de questions en utilisant une combinaison de connaissances locales et l'API AI21 Labs. Ce projet démontre l'intégration d'une IA avancée dans une application Python simple et extensible.
 
 ## Fonctionnalités
 
@@ -25,8 +25,8 @@ HariBOT est un assistant IA interactif en ligne de commande, conçu pour répond
 
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/votre-nom-utilisateur/haribot.git
-   cd haribot
+   git clone https://github.com/votre-nom-utilisateur/Horibot.git
+   cd Horibot
    ```
 
 2. Installez les dépendances :
@@ -43,7 +43,7 @@ HariBOT est un assistant IA interactif en ligne de commande, conçu pour répond
    python ia.py
    ```
 
-2. Interagissez avec HariBOT :
+2. Interagissez avec HoriBOT :
    - Posez des questions directement.
    - Utilisez la commande 'apprendre' pour ajouter de nouvelles connaissances.
    - Utilisez la commande 'quitter' pour terminer la session.
