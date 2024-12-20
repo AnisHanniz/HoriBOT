@@ -1,6 +1,6 @@
 
 # Clé API AI21 Labs
-API_KEY = "QQKIqgMdPsrJbZ8pT3YTKeRTCEM5Kfgz"
+API_KEY = "VOTRE_CLE"
 
 # URL de l'API AI21 Labs
 API_URL = "https://api.ai21.com/studio/v1/j2-ultra/complete"
